@@ -1,0 +1,266 @@
+[  
+  {
+    "name": "Balrog [Player]",
+    "type": "toggle",
+    "img": "images/items/Balrog.png",
+    "codes": "Balrog [Player]"
+  },
+  {
+    "name": "Blanka [Player]",
+    "type": "toggle",
+    "img": "images/items/Blanka.png",
+    "codes": "Blanka [Player]"
+  },
+  {
+    "name": "Cammy [Player]",
+    "type": "toggle",
+    "img": "images/items/Cammy.png",
+    "codes": "Cammy [Player]"
+  },
+  {
+    "name": "Chun-Li [Player]",
+    "type": "toggle",
+    "img": "images/items/Chun-Li.png",
+    "codes": "Chun-Li [Player]"
+  },
+  {
+    "name": "Dee Jay [Player]",
+    "type": "toggle",
+    "img": "images/items/Dee-Jay.png",
+    "codes": "Dee Jay [Player]"
+  },
+  {
+    "name": "Dhalsim [Player]",
+    "type": "toggle",
+    "img": "images/items/Dhalsim.png",
+    "codes": "Dhalsim [Player]"
+  },
+  {
+    "name": "E.Honda [Player]",
+    "type": "toggle",
+    "img": "images/items/E.Honda.png",
+    "codes": "E.Honda [Player]"
+  },
+  {
+    "name": "Fei Long [Player]",
+    "type": "toggle",
+    "img": "images/items/Fei-Long.png",
+    "codes": "Fei Long [Player]"
+  },
+  {
+    "name": "Guile [Player]",
+    "type": "toggle",
+    "img": "images/items/Guile.png",
+    "codes": "Guile [Player]"
+  },
+  {
+    "name": "Ken [Player]",
+    "type": "toggle",
+    "img": "images/items/Ken.png",
+    "codes": "Ken [Player]"
+  },
+  {
+    "name": "M.Bison [Player]",
+    "type": "toggle",
+    "img": "images/items/M.Bison.png",
+    "codes": "M.Bison [Player]"
+  },
+  {
+    "name": "Ryu [Player]",
+    "type": "toggle",
+    "img": "images/items/Ryu.png",
+    "codes": "Ryu [Player]"
+  },
+  {
+    "name": "Sagat [Player]",
+    "type": "toggle",
+    "img": "images/items/Sagat.png",
+    "codes": "Sagat [Player]"
+  },
+  {
+    "name": "T.Hawk [Player]",
+    "type": "toggle",
+    "img": "images/items/T.Hawk.png",
+    "codes": "T.Hawk [Player]"
+  },
+  {
+    "name": "Vega [Player]",
+    "type": "toggle",
+    "img": "images/items/Vega.png",
+    "codes": "Vega [Player]"
+  },
+  {
+    "name": "Zangief [Player]",
+    "type": "toggle",
+    "img": "images/items/Zangief.png",
+    "codes": "Zangief [Player]"
+  },
+  {
+    "name": "Shadaloo Emblem",
+    "type": "consumable",
+    "img": "images/items/Shadaloo Emblem.png",
+    "max_quantity": 25,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 12,
+    "codes": "Shadaloo Emblem"
+  },
+  {
+    "name": "Super Battle",
+    "type": "toggle",
+    "img": "images/items/super battle.png",
+    "codes": "Super Battle"
+  },
+  {
+    "name": "Time Challenge",
+    "type": "toggle",
+    "img": "images/items/Time Challenge.png",
+    "codes": "Time Challenge"
+  },
+  {
+    "name": "1 Stars",
+    "type": "toggle",
+    "img": "images/items/1 Stars.png",
+    "codes": "1 Stars"
+  },
+  {
+    "name": "2 Stars",
+    "type": "toggle",
+    "img": "images/items/2 Stars.png",
+    "codes": "2 Stars"
+  },
+  {
+    "name": "3 Stars",
+    "type": "toggle",
+    "img": "images/items/3 Stars.png",
+    "codes": "3 Stars"
+  },
+  {
+    "name": "4 Stars",
+    "type": "toggle",
+    "img": "images/items/4 Stars.png",
+    "codes": "4 Stars"
+  },
+  {
+    "name": "5 Stars",
+    "type": "toggle",
+    "img": "images/items/5 Stars.png",
+    "codes": "5 Stars"
+  },
+  {
+    "name": "6 Stars",
+    "type": "toggle",
+    "img": "images/items/6 Stars.png",
+    "codes": "6 Stars"
+  },
+  {
+    "name": "7 Stars",
+    "type": "toggle",
+    "img": "images/items/7 Stars.png",
+    "codes": "7 Stars"
+  },
+  {
+    "name": "8 Stars",
+    "type": "toggle",
+    "img": "images/items/8 Stars.png",
+    "codes": "8 Stars"
+  },
+  {
+    "name": "Balrog [CPU for Time Challenge]",
+    "type": "toggle",
+    "img": "images/items/Balrog.png",
+    "codes": "Balrog [CPU for Time Challenge]"
+  },
+  {
+    "name": "Blanka [CPU for Time Challenge]",
+    "type": "toggle",
+    "img": "images/items/Blanka.png",
+    "codes": "Blanka [CPU for Time Challenge]"
+  },
+  {
+    "name": "Cammy [CPU for Time Challenge]",
+    "type": "toggle",
+    "img": "images/items/Cammy.png",
+    "codes": "Cammy [CPU for Time Challenge]"
+  },
+  {
+    "name": "Chun-Li [CPU for Time Challenge]",
+    "type": "toggle",
+    "img": "images/items/Chun-Li.png",
+    "codes": "Chun-Li [CPU for Time Challenge]"
+  },
+  {
+    "name": "Dee Jay [CPU for Time Challenge]",
+    "type": "toggle",
+    "img": "images/items/Dee-Jay.png",
+    "codes": "Dee Jay [CPU for Time Challenge]"
+  },
+  {
+    "name": "Dhalsim [CPU for Time Challenge]",
+    "type": "toggle",
+    "img": "images/items/Dhalsim.png",
+    "codes": "Dhalsim [CPU for Time Challenge]"
+  },
+  {
+    "name": "E.Honda [CPU for Time Challenge]",
+    "type": "toggle",
+    "img": "images/items/E.Honda.png",
+    "codes": "E.Honda [CPU for Time Challenge]"
+  },
+  {
+    "name": "Fei Long [CPU for Time Challenge]",
+    "type": "toggle",
+    "img": "images/items/Fei-Long.png",
+    "codes": "Fei Long [CPU for Time Challenge]"
+  },
+  {
+    "name": "Guile [CPU for Time Challenge]",
+    "type": "toggle",
+    "img": "images/items/Guile.png",
+    "codes": "Guile [CPU for Time Challenge]"
+  },
+  {
+    "name": "Ken [CPU for Time Challenge]",
+    "type": "toggle",
+    "img": "images/items/Ken.png",
+    "codes": "Ken [CPU for Time Challenge]"
+  },
+  {
+    "name": "M.Bison [CPU for Time Challenge]",
+    "type": "toggle",
+    "img": "images/items/M.Bison.png",
+    "codes": "M.Bison [CPU for Time Challenge]"
+  },
+  {
+    "name": "Ryu [CPU for Time Challenge]",
+    "type": "toggle",
+    "img": "images/items/Ryu.png",
+    "codes": "Ryu [CPU for Time Challenge]"
+  },
+  {
+    "name": "Sagat [CPU for Time Challenge]",
+    "type": "toggle",
+    "img": "images/items/Sagat.png",
+    "codes": "Sagat [CPU for Time Challenge]"
+  },
+  {
+    "name": "T.Hawk [CPU for Time Challenge]",
+    "type": "toggle",
+    "img": "images/items/T.Hawk.png",
+    "codes": "T.Hawk [CPU for Time Challenge]"
+  },
+  {
+    "name": "Vega [CPU for Time Challenge]",
+    "type": "toggle",
+    "img": "images/items/Vega.png",
+    "codes": "Vega [CPU for Time Challenge]"
+  },
+  {
+    "name": "Zangief [CPU for Time Challenge]",
+    "type": "toggle",
+    "img": "images/items/Zangief.png",
+    "codes": "Zangief [CPU for Time Challenge]"
+  }
+]

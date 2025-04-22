@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Super Battle",
+    "location_size": 40,
+    "location_border_thickness": 9,
+    "img": "images/maps/super battle mode.png"
+  },
+  {
+    "name": "Time Challenge",
+    "location_size": 40,
+    "location_border_thickness": 9,
+    "img": "images/maps/Time challenge mode.png"
+  }
+]

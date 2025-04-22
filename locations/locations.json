@@ -1,0 +1,2477 @@
+[
+    {
+        "name": "Super Battle",
+        "access_rules": ["Super Battle"],
+        "children": [
+            {
+                "name": "Ryu",
+                "sections": [
+                    {
+                        "name": "Ryu - Fight 01 Clear",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ryu - Fight 02 Clear",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ryu - Fight 03 Clear",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ryu - Bonus 01 Clear",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ryu - Fight 04 Clear",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ryu - Fight 05 Clear",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ryu - Fight 06 Clear",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ryu - Bonus 02 Clear",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ryu - Fight 07 Clear",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ryu - Fight 08 Clear",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ryu - Fight 09 Clear",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ryu - Bonus 03 Clear",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ryu - Fight 10 Clear",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ryu - Fight 11 Clear",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ryu - Fight 12 Clear",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ryu - I am the grand master of karate -Beat the Game",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ryu - Get Stun",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ryu - Get Perfect Round",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ryu - Get Perfect Bonus 01",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ryu - Get Perfect Bonus 02",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ryu - Get Perfect Bonus 03",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Ken with Ryu - Masters of Hadoken",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Vega with Ryu - You Were Losing, I Think",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Sagat with Ryu - Scar of Honor",
+                        "access_rules": ["Ryu [Player]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Super Battle",
+                        "x": 325,
+                        "y": 355,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "E.Honda",
+                "sections": [
+                    {
+                        "name": "E.Honda - Fight 01 Clear",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "E.Honda - Fight 02 Clear",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "E.Honda - Fight 03 Clear",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "E.Honda - Bonus 01 Clear",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "E.Honda - Fight 04 Clear",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "E.Honda - Fight 05 Clear",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "E.Honda - Fight 06 Clear",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "E.Honda - Bonus 02 Clear",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "E.Honda - Fight 07 Clear",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "E.Honda - Fight 08 Clear",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "E.Honda - Fight 09 Clear",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "E.Honda - Bonus 03 Clear",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "E.Honda - Fight 10 Clear",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "E.Honda - Fight 11 Clear",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "E.Honda - Fight 12 Clear",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat the Game - E.Honda - World’s Strongest Sumo",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "E.Honda - Get Stun",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "E.Honda - Get Perfect Round",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "E.Honda - Get Perfect Bonus 01",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "E.Honda - Get Perfect Bonus 02",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "E.Honda - Get Perfect Bonus 03",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Zangief with E.Honda - Monster Fight Showdown",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Defeat Ryu with E. Honda - Japanese Duel",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Defeat Ken with E. Honda - City Hunter Clash",
+                        "access_rules": ["E.Honda [Player]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Super Battle",
+                        "x": 445,
+                        "y": 355,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Blanka",
+                "sections": [
+                    {
+                        "name": "Blanka - Fight 01 Clear",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blanka - Fight 02 Clear",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blanka - Fight 03 Clear",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blanka - Bonus 01 Clear",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blanka - Fight 04 Clear",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blanka - Fight 05 Clear",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blanka - Fight 06 Clear",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blanka - Bonus 02 Clear",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blanka - Fight 07 Clear",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blanka - Fight 08 Clear",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blanka - Fight 09 Clear",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blanka - Bonus 03 Clear",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blanka - Fight 10 Clear",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blanka - Fight 11 Clear",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blanka - Fight 12 Clear",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat the Game - Blanka - Mother’s Embrace",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blanka - Get Stun",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blanka - Get Perfect Round",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blanka - Get Perfect Bonus 01",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blanka - Get Perfect Bonus 02",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blanka - Get Perfect Bonus 03",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Zangief with Blanka - Jungle Power",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Cammy with Blanka - Battle for Redemption",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Dhalsim with Blanka - Humanity's Touch",
+                        "access_rules": ["Blanka [Player]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Super Battle",
+                        "x": 565,
+                        "y": 355,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Guile",
+                "sections": [
+                    {
+                        "name": "Guile - Fight 01 Clear",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guile - Fight 02 Clear",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guile - Fight 03 Clear",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guile - Bonus 01 Clear",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guile - Fight 04 Clear",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guile - Fight 05 Clear",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guile - Fight 06 Clear",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guile - Bonus 02 Clear",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guile - Fight 07 Clear",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guile - Fight 08 Clear",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guile - Fight 09 Clear",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guile - Bonus 03 Clear",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guile - Fight 10 Clear",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guile - Fight 11 Clear",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guile - Fight 12 Clear",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat the Game - Guile - Vengeance Relinquished",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guile - Get Stun",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guile - Get Perfect Round",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guile - Get Perfect Bonus 01",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guile - Get Perfect Bonus 02",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guile - Get Perfect Bonus 03",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Zangief with Guile - Ideological Warfare",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Cammy with Guile - Training Day",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat M.Bison with Guile - This is the Collection Agency, Bison. Your Ass is Six Months Overdue, and It's Mine.",
+                        "access_rules": ["Guile [Player]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Super Battle",
+                        "x": 680,
+                        "y": 355,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "T.Hawk",
+                "sections": [
+                    {
+                        "name": "T.Hawk - Fight 01 Clear",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "T.Hawk - Fight 02 Clear",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "T.Hawk - Fight 03 Clear",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "T.Hawk - Bonus 01 Clear",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "T.Hawk - Fight 04 Clear",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "T.Hawk - Fight 05 Clear",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "T.Hawk - Fight 06 Clear",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "T.Hawk - Bonus 02 Clear",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "T.Hawk - Fight 07 Clear",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "T.Hawk - Fight 08 Clear",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "T.Hawk - Fight 09 Clear",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "T.Hawk - Bonus 03 Clear",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "T.Hawk - Fight 10 Clear",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "T.Hawk - Fight 11 Clear",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "T.Hawk - Fight 12 Clear",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat the Game - T.Hawk - Restored Heritage",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "T.Hawk - Get Stun",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "T.Hawk - Get Perfect Round",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "T.Hawk - Get Perfect Bonus 01",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "T.Hawk - Get Perfect Bonus 02",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "T.Hawk - Get Perfect Bonus 03",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Zangief with T.Hawk - Clash of the Titans",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Dhalsim with T.Hawk - Spiritual Showdown",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Cammy with T.Hawk - Sky Power",
+                        "access_rules": ["T.Hawk [Player]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Super Battle",
+                        "x": 325,
+                        "y": 570,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Fei Long",
+                "sections": [
+                    {
+                        "name": "Fei Long - Fight 01 Clear",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fei Long - Fight 02 Clear",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fei Long - Fight 03 Clear",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fei Long - Bonus 01 Clear",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fei Long - Fight 04 Clear",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fei Long - Fight 05 Clear",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fei Long - Fight 06 Clear",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fei Long - Bonus 02 Clear",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fei Long - Fight 07 Clear",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fei Long - Fight 08 Clear",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fei Long - Fight 09 Clear",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fei Long - Bonus 03 Clear",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fei Long - Fight 10 Clear",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fei Long - Fight 11 Clear",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fei Long - Fight 12 Clear",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat the Game - Fei Long - Path of the True Warrior",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fei Long - Get Stun",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fei Long - Get Perfect Round",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fei Long - Get Perfect Bonus 01",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fei Long - Get Perfect Bonus 02",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fei Long - Get Perfect Bonus 03",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Ryu with Fei Long - Duel of Discipline",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Chun-Li with Fei Long - Clash of the Dragons",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Sagat with Fei Long - Big Boss Showdown",
+                        "access_rules": ["Fei Long [Player]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Super Battle",
+                        "x": 445,
+                        "y": 570,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Ken",
+                "sections": [
+                    {
+                        "name": "Ken - Fight 01 Clear",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ken - Fight 02 Clear",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ken - Fight 03 Clear",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ken - Bonus 01 Clear",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ken - Fight 04 Clear",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ken - Fight 05 Clear",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ken - Fight 06 Clear",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ken - Bonus 02 Clear",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ken - Fight 07 Clear",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ken - Fight 08 Clear",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ken - Fight 09 Clear",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ken - Bonus 03 Clear",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ken - Fight 10 Clear",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ken - Fight 11 Clear",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ken - Fight 12 Clear",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat the Game - Ken - Wedding Bells Victory",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ken - Get Stun",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ken - Get Perfect Round",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ken - Get Perfect Bonus 01",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ken - Get Perfect Bonus 02",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ken - Get Perfect Bonus 03",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Ryu with Ken - Eternal Rivals",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Vega with Ken - Defender of Love",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Sagat with Ken - Glad I met you. I could have turned out like you.",
+                        "access_rules": ["Ken [Player]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Super Battle",
+                        "x": 325,
+                        "y": 463,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Chun-Li",
+                "sections": [
+                    {
+                        "name": "Chun-Li - Fight 01 Clear",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chun-Li - Fight 02 Clear",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chun-Li - Fight 03 Clear",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chun-Li - Bonus 01 Clear",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chun-Li - Fight 04 Clear",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chun-Li - Fight 05 Clear",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chun-Li - Fight 06 Clear",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chun-Li - Bonus 02 Clear",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chun-Li - Fight 07 Clear",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chun-Li - Fight 08 Clear",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chun-Li - Fight 09 Clear",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chun-Li - Bonus 03 Clear",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chun-Li - Fight 10 Clear",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chun-Li - Fight 11 Clear",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chun-Li - Fight 12 Clear",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat the Game with Chun-Li - Justice for the Fallen",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chun-Li - Get Stun",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chun-Li - Get Perfect Round",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chun-Li - Get Perfect Bonus 01",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chun-Li - Get Perfect Bonus 02",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chun-Li - Get Perfect Bonus 03",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Vega with Chun-Li - Beauty and the Beast",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat M.Bison with Chun-Li - Father, I Have Avenged You",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Guile with Chun-Li - Interpol Alliance",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Cammy with Chun-Li - Beauty Battle",
+                        "access_rules": ["Chun-Li [Player]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Super Battle",
+                        "x": 445,
+                        "y": 463,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Zangief",
+                "sections": [
+                    {
+                        "name": "Zangief - Fight 01 Clear",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Zangief - Fight 02 Clear",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Zangief - Fight 03 Clear",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Zangief - Bonus 01 Clear",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Zangief - Fight 04 Clear",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Zangief - Fight 05 Clear",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Zangief - Fight 06 Clear",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Zangief - Bonus 02 Clear",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Zangief - Fight 07 Clear",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Zangief - Fight 08 Clear",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Zangief - Fight 09 Clear",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Zangief - Bonus 03 Clear",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Zangief - Fight 10 Clear",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Zangief - Fight 11 Clear",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Zangief - Fight 12 Clear",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat the Game with Zangief - Patriot's Triumph",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Zangief - Get Stun",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Zangief - Get Perfect Round",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Zangief - Get Perfect Bonus 01",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Zangief - Get Perfect Bonus 02",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Zangief - Get Perfect Bonus 03",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat E.Honda with Zangief - Clash of Strength",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Blanka with Zangief - Fur-ocious Battle",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Guile with Zangief - Cold War Clash",
+                        "access_rules": ["Zangief [Player]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Super Battle",
+                        "x": 565,
+                        "y": 463,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Dhalsim",
+                "sections": [
+                    {
+                        "name": "Dhalsim - Fight 01 Clear",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dhalsim - Fight 02 Clear",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dhalsim - Fight 03 Clear",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dhalsim - Bonus 01 Clear",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dhalsim - Fight 04 Clear",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dhalsim - Fight 05 Clear",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dhalsim - Fight 06 Clear",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dhalsim - Bonus 02 Clear",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dhalsim - Fight 07 Clear",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dhalsim - Fight 08 Clear",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dhalsim - Fight 09 Clear",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dhalsim - Bonus 03 Clear",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dhalsim - Fight 10 Clear",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dhalsim - Fight 11 Clear",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dhalsim - Fight 12 Clear",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat the Game with Dhalsim  - Zenith of Yoga",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dhalsim - Get Stun",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dhalsim - Get Perfect Round",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dhalsim - Get Perfect Bonus 01",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dhalsim - Get Perfect Bonus 02",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dhalsim - Get Perfect Bonus 03",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat E. Honda with Dhalsim - Heavyweight vs. Lightweight",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Blanka with Dhalsim - Beyond the Monster",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Sagat with Dhalsim - One Bald Punch",
+                        "access_rules": ["Dhalsim [Player]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Super Battle",
+                        "x": 680,
+                        "y": 463,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Cammy",
+                "sections": [
+                    {
+                        "name": "Cammy - Fight 01 Clear",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cammy - Fight 02 Clear",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cammy - Fight 03 Clear",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cammy - Bonus 01 Clear",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cammy - Fight 04 Clear",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cammy - Fight 05 Clear",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cammy - Fight 06 Clear",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cammy - Bonus 02 Clear",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cammy - Fight 07 Clear",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cammy - Fight 08 Clear",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cammy - Fight 09 Clear",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cammy - Bonus 03 Clear",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cammy - Fight 10 Clear",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cammy - Fight 11 Clear",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cammy - Fight 12 Clear",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat the Game with Cammy - Awakening from the Shadows",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cammy - Get Stun",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cammy - Get Perfect Round",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cammy - Get Perfect Bonus 01",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cammy - Get Perfect Bonus 02",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cammy - Get Perfect Bonus 03",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat M. Bison with Cammy - I'm Not Your Doll",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Chun-Li with Cammy - Femme Fatale Face-off",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Guile with Cammy - Delta Force vs. Air Force",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Vega with Cammy - Battle of the Braids",
+                        "access_rules": ["Cammy [Player]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Super Battle",
+                        "x": 680,
+                        "y": 570,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Dee Jay",
+                "sections": [
+                    {
+                        "name": "Dee Jay - Fight 01 Clear",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dee Jay - Fight 02 Clear",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dee Jay - Fight 03 Clear",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dee Jay - Bonus 01 Clear",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dee Jay - Fight 04 Clear",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dee Jay - Fight 05 Clear",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dee Jay - Fight 06 Clear",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dee Jay - Bonus 02 Clear",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dee Jay - Fight 07 Clear",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dee Jay - Fight 08 Clear",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dee Jay - Fight 09 Clear",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dee Jay - Bonus 03 Clear",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dee Jay - Fight 10 Clear",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dee Jay - Fight 11 Clear",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dee Jay - Fight 12 Clear",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat the Game with Dee Jay - Rhythm of Victory",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dee Jay - Get Stun",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dee Jay - Get Perfect Round",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dee Jay - Get Perfect Bonus 01",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dee Jay - Get Perfect Bonus 02",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dee Jay - Get Perfect Bonus 03",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "The Beat of the Beast: Beat Blanka with Dee Jay",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Kung Fu vs. Dance Crew: Beat Fei Long with Dee Jay",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tribal Beats: Beat T. Hawk with Dee Jay",
+                        "access_rules": ["Dee Jay [Player]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Super Battle",
+                        "x": 565,
+                        "y": 570,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Balrog",
+                "sections": [
+                    {
+                        "name": "Balrog - Fight 01 Clear",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Balrog - Fight 02 Clear",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Balrog - Fight 03 Clear",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Balrog - Bonus 01 Clear",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Balrog - Fight 04 Clear",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Balrog - Fight 05 Clear",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Balrog - Fight 06 Clear",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Balrog - Bonus 02 Clear",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Balrog - Fight 07 Clear",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Balrog - Fight 08 Clear",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Balrog - Fight 09 Clear",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Balrog - Bonus 03 Clear",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Balrog - Fight 10 Clear",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Balrog - Fight 11 Clear",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Balrog - Fight 12 Clear",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat the Game with Balrog - Greed's Reward",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Balrog - Get Stun",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Balrog - Get Perfect Round",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Balrog - Get Perfect Bonus 01",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Balrog - Get Perfect Bonus 02",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Balrog - Get Perfect Bonus 03",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Chun-Li with Balrog - After the Father, the Daughter Falls",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Sagat with Balrog - Eye of the True Tiger",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Ken with Balrog - Stars and Strikes",
+                        "access_rules": ["Balrog [Player]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Super Battle",
+                        "x": 208,
+                        "y": 463,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Vega",
+                "sections": [
+                    {
+                        "name": "Vega - Fight 01 Clear",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Vega - Fight 02 Clear",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Vega - Fight 03 Clear",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Vega - Bonus 01 Clear",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Vega - Fight 04 Clear",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Vega - Fight 05 Clear",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Vega - Fight 06 Clear",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Vega - Bonus 02 Clear",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Vega - Fight 07 Clear",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Vega - Fight 08 Clear",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Vega - Fight 09 Clear",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Vega - Bonus 03 Clear",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Vega - Fight 10 Clear",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Vega - Fight 11 Clear",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Vega - Fight 12 Clear",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat the Game with Vega - Reflections of Perfection",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Vega - Get Stun",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Vega - Get Perfect Round",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Vega - Get Perfect Bonus 01",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Vega - Get Perfect Bonus 02",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Vega - Get Perfect Bonus 03",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Chun-Li with Vega - No Escape This Time",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Cammy with Vega - Braid to Braid Combat",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Ryu with Vega - Where Were We?",
+                        "access_rules": ["Vega [Player]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Super Battle",
+                        "x": 208,
+                        "y": 570,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sagat",
+                "sections": [
+                    {
+                        "name": "Sagat - Fight 01 Clear",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sagat - Fight 02 Clear",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sagat - Fight 03 Clear",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sagat - Bonus 01 Clear",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sagat - Fight 04 Clear",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sagat - Fight 05 Clear",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sagat - Fight 06 Clear",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sagat - Bonus 02 Clear",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sagat - Fight 07 Clear",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sagat - Fight 08 Clear",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sagat - Fight 09 Clear",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sagat - Bonus 03 Clear",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sagat - Fight 10 Clear",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sagat - Fight 11 Clear",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sagat - Fight 12 Clear",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat the Game with Sagat - The King's Unfinished Business",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sagat - Get Stun",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sagat - Get Perfect Round",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sagat - Get Perfect Bonus 01",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sagat - Get Perfect Bonus 02",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sagat - Get Perfect Bonus 03",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Ryu with Sagat - Scarred for Vengeance",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Balrog with Sagat - Eye of the Tiger Knee",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat M.Bison with Sagat - Tiger vs. Tyrant",
+                        "access_rules": ["Sagat [Player]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Super Battle",
+                        "x": 800,
+                        "y": 463,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "M.Bison",
+                "sections": [
+                    {
+                        "name": "M.Bison - Fight 01 Clear",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "M.Bison - Fight 02 Clear",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "M.Bison - Fight 03 Clear",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "M.Bison - Bonus 01 Clear",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "M.Bison - Fight 04 Clear",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "M.Bison - Fight 05 Clear",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "M.Bison - Fight 06 Clear",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "M.Bison - Bonus 02 Clear",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "M.Bison - Fight 07 Clear",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "M.Bison - Fight 08 Clear",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "M.Bison - Fight 09 Clear",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "M.Bison - Bonus 03 Clear",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "M.Bison - Fight 10 Clear",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "M.Bison - Fight 11 Clear",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "M.Bison - Fight 12 Clear",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat the Game with M. Bison - World Conqueror",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "M.Bison - Get Stun",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "M.Bison - Get Perfect Round",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "M.Bison - Get Perfect Bonus 01",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "M.Bison - Get Perfect Bonus 02",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "M.Bison - Get Perfect Bonus 03",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Guile with M. Bison - Deny My Divinity?",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Chun-Li with M. Bison - But for Me, It Was Tuesday",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beat Cammy with M. Bison - You Were the Best, But Still Just a Doll",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Defeat Sagat with M. Bison - Guess Who's Not Seeing a Thing",
+                        "access_rules": ["M.Bison [Player]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Super Battle",
+                        "x": 800,
+                        "y": 570,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Time Challenge",
+        "access_rules": ["Time Challenge"],
+        "children": [
+            {
+                "name": "Ryu",
+                "sections": [
+                    {
+                        "name": "Ryu in Time Challenge - Defeat",
+                "access_rules": ["Ryu [CPU for Time Challenge]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Time Challenge",
+                        "x": 325,
+                        "y": 355,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "E.Honda",
+                "sections": [
+                    {
+                        "name": "E.Honda in Time Challenge - Defeat",
+                "access_rules": ["E.Honda [CPU for Time Challenge]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Time Challenge",
+                        "x": 445,
+                        "y": 355,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Blanka",
+                "sections": [
+                    {
+                        "name": "Blanka in Time Challenge - Defeat",
+                "access_rules": ["Blanka [CPU for Time Challenge]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Time Challenge",
+                        "x": 565,
+                        "y": 355,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Guile",
+                "sections": [
+                    {
+                        "name": "Guile in Time Challenge - Defeat",
+                "access_rules": ["Guile [CPU for Time Challenge]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Time Challenge",
+                        "x": 680,
+                        "y": 355,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "T.Hawk",
+                "sections": [
+                    {
+                        "name": "T.Hawk in Time Challenge - Defeat",
+                "access_rules": ["T.Hawk [CPU for Time Challenge]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Time Challenge",
+                        "x": 325,
+                        "y": 570,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Fei Long",
+                "sections": [
+                    {
+                        "name": "Fei Long in Time Challenge - Defeat",
+                "access_rules": ["Fei Long [CPU for Time Challenge]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Time Challenge",
+                        "x": 445,
+                        "y": 570,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Ken",
+                "sections": [
+                    {
+                        "name": "Ken in Time Challenge - Defeat",
+                "access_rules": ["Ken [CPU for Time Challenge]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Time Challenge",
+                        "x": 325,
+                        "y": 463,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Chun-Li",
+                "sections": [
+                    {
+                        "name": "Chun-Li in Time Challenge - Defeat",
+                "access_rules": ["Chun-Li [CPU for Time Challenge]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Time Challenge",
+                        "x": 445,
+                        "y": 463,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Zangief",
+                "sections": [
+                    {
+                        "name": "Zangief in Time Challenge - Defeat",
+                "access_rules": ["Zangief [CPU for Time Challenge]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Time Challenge",
+                        "x": 565,
+                        "y": 463,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Dhalsim",
+                "sections": [
+                    {
+                        "name": "Dhalsim in Time Challenge - Defeat",
+                "access_rules": ["Dhalsim [CPU for Time Challenge]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Time Challenge",
+                        "x": 680,
+                        "y": 463,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Cammy",
+                "sections": [
+                    {
+                        "name": "Cammy in Time Challenge - Defeat",
+                "access_rules": ["Cammy [CPU for Time Challenge]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Time Challenge",
+                        "x": 680,
+                        "y": 570,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Dee Jay",
+                "sections": [
+                    {
+                        "name": "Dee Jay in Time Challenge - Defeat",
+                "access_rules": ["Dee Jay [CPU for Time Challenge]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Time Challenge",
+                        "x": 565,
+                        "y": 570,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Balrog",
+                "sections": [
+                    {
+                        "name": "Balrog in Time Challenge - Defeat",
+                "access_rules": ["Balrog [CPU for Time Challenge]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Time Challenge",
+                        "x": 208,
+                        "y": 463,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Vega",
+                "sections": [
+                    {
+                        "name": "Vega in Time Challenge - Defeat",
+                "access_rules": ["Vega [CPU for Time Challenge]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Time Challenge",
+                        "x": 208,
+                        "y": 570,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sagat",
+                "sections": [
+                    {
+                        "name": "Sagat in Time Challenge - Defeat",
+                "access_rules": ["Sagat [CPU for Time Challenge]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Time Challenge",
+                        "x": 800,
+                        "y": 463,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "M.Bison",
+                "sections": [
+                    {
+                        "name": "M.Bison in Time Challenge - Defeat",
+                "access_rules": ["M.Bison [CPU for Time Challenge]"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Time Challenge",
+                        "x": 800,
+                        "y": 570,
+                        "size": 15,
+                        "border_thickness": 2
+                    }
+                ]
+            }
+        ]
+    }
+]

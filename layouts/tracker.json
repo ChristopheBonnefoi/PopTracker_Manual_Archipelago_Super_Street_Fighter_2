@@ -1,0 +1,80 @@
+﻿{
+  "tracker_default": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "bottom",
+          "v_alignment": "stretch",
+          "content": [
+            {
+              "type": "group",
+              "header": "Characters",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "characters_item_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Token/Game modes",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "game_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "CPU Time Challenge",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "cpu_characters_item_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Difficulty",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "difficulty_grid"
+              }
+            }
+          ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Super Battle",
+              "icon": "images/items/triforce.png",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Super Battle"
+                ]
+              }
+            },
+            {
+              "title": "Time Challenge",
+              "icon": "images/items/triforce.png",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Time Challenge"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
