@@ -1,19 +1,27 @@
-# The Legend of Zelda Map Tracker 
+# PopTracker for Manual Archipelago Super Street Fighter II
 
-This is a map tracker for the AP build of TLoZ Randomizer!
+## Welcome!
+Welcome to the official repository for the PopTracker integration with the Archipelago Manual for Super Street Fighter II. This project connects the objectives and item checks defined in the Manual Archipelago network to a live tracker powered by PopTracker. It’s still under active development—I’m learning PopTracker as I go and don’t yet fully master the tool, so expect continuous improvements.
 
-This pack features autotracking when connected to the AP server.
+## Project Status
+The project is currently in **Beta**! Core functionality is implemented, but features are being refined and new enhancements are in the works. Bugs are possible; please report any issues you encounter.
 
-## Installation
+## Known Bugs
+- Unable to connect to the Archipelago server at the moment.
 
-Just download the lastest [build](https://github.com/Br00ty/tloz_brooty/releases/latest) and put it in your poptracker/packs folder.
+## Patch Notes
 
-## More Info
+### Version 0.1.0 and 0.1.1
+- Initial commit (0.1.0)
+- Updated README (0.1.1)
+- Added `.gitignore` file (0.1.1)
+- Created `docs/` folder and added it to `.gitignore` (0.1.1)
 
-Check out PopTrackers Documentation on packs [here](https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md)
+## Contributing
+We welcome all feedback and contributions!  
+- **Report bugs** or suggest features via GitHub issues.  
+- **Submit pull requests** with code fixes or optimizations.  
+- **Improve documentation** or add new guides.
 
-Still having trouble realizing your pack and looking for help or just want more information about everything PopTracker? Check out the ['Unofficial' PopTracker Discord Server](https://discord.com/invite/gwThqMCPgK)!
-
-## License
-
-*flashes Link's drivers license*
+## Contact
+For questions or discussions, please open an issue on GitHub or reach out on the Archipelago Discord.  
