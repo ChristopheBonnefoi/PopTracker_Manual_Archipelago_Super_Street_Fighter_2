@@ -54,7 +54,7 @@
           "tabs": [
             {
               "title": "Super Battle",
-              "icon": "images/items/triforce.png",
+              "icon": "images/items/super battle.png",
               "content": {
                 "type": "map",
                 "maps": [
@@ -64,7 +64,7 @@
             },
             {
               "title": "Time Challenge",
-              "icon": "images/items/triforce.png",
+              "icon": "images/items/Time Challenge.png",
               "content": {
                 "type": "map",
                 "maps": [

@@ -1,4 +1,4 @@
-[  
+[
   {
     "name": "Balrog [Player]",
     "type": "toggle",
@@ -99,7 +99,7 @@
     "name": "Shadaloo Emblem",
     "type": "consumable",
     "img": "images/items/Shadaloo Emblem.png",
-    "max_quantity": 25,
+    "max_quantity": 100,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
