@@ -26,6 +26,11 @@ ScriptHost:LoadScript("scripts/logic/logic.lua")
 -- Items
 Tracker:AddItems("items/items.json")
 
+local ap_connected = Tracker:FindObjectForCode("AP Connected")
+if ap_connected then
+    ap_connected.Active = false
+end
+
 if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     -- Maps
     Tracker:AddMaps("maps/maps.json")    

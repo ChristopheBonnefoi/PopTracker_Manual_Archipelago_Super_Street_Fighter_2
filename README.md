@@ -6,7 +6,7 @@ This pack tracks the Manual Archipelago items and checks in PopTracker, includin
 
 ## Status
 
-Current version: `0.1.2`
+Current version: `0.2.0`
 
 The pack is usable with Archipelago Manual and PopTracker. Core AP tracking is working:
 
@@ -15,13 +15,15 @@ The pack is usable with Archipelago Manual and PopTracker. Core AP tracking is w
 - Receives checked locations from AP and updates map checks.
 - Sends Manual location checks to Archipelago when checks are clicked in PopTracker.
 - Tracks `Shadaloo Emblem` as a consumable token counter.
+- References all current Manual APWorld locations in the tracker data.
+- Includes Super Battle, Time Challenge, Defeat, character, All, and Other map views.
 
 ## Installation
 
 Use the generated pack archive:
 
 ```text
-SSF2_PopTracker_pack.zip
+SSF2_ap_Tracker.zip
 ```
 
 Place it in your PopTracker `packs` folder, or extract it into a short path such as:
@@ -42,11 +44,24 @@ If extracted, `manifest.json` must be directly inside the pack folder.
 
 ## Known Limitations
 
-- The tracker currently displays the main Super Battle and Time Challenge checks, but not every possible check from the AP world is represented visually yet.
+- Special Move items are present for AP logic, but they are not displayed in the tracker UI yet.
 - SNES memory autotracking is not implemented. This is a Manual Archipelago tracker, so checks are handled manually through PopTracker.
-- Debug logging is still enabled while the pack is being stabilized.
+- Some map marker placements may still receive visual polish.
 
 ## Changelog
+
+### Version 0.2.0
+
+- Updated the tracker data to match the current `Manual_SSF2_NaruSnake` APWorld.
+- Added all current APWorld locations to the tracker location data.
+- Added hidden Special Move items so APWorld requirements can be represented correctly in tracker logic.
+- Rebuilt AP item and location mappings for Archipelago connection support.
+- Added and reorganized map views for `All`, `Defeat`, `Super Battle`, `Time Challenge`, character pages, and `Other`.
+- Added per-character Super Battle tabs and updated tab ordering.
+- Updated map assets for the new tracker layout.
+- Updated access rules so tracker checks follow the APWorld requirements.
+- Cleaned pack output rules for logs, archives, source art, and local documentation.
+- Renamed the generated pack archive to `SSF2_ap_Tracker.zip`.
 
 ### Version 0.1.2
 
@@ -78,8 +93,8 @@ Feedback, bug reports, and pull requests are welcome.
 
 Useful areas for future improvements:
 
-- Add the remaining AP checks to the PopTracker layout.
-- Clean up debug logging for release builds.
+- Design a clean UI for displaying Special Move items.
+- Continue polishing map marker placements.
 - Improve map visuals and location organization.
 - Add documentation for creating future Manual Archipelago PopTracker packs.
 

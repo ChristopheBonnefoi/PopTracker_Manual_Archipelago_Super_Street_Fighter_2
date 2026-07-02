@@ -146,6 +146,10 @@ function onClear(slot_data)
             end
         end
     end
+    local ap_connected = Tracker:FindObjectForCode("AP Connected")
+    if ap_connected then
+        ap_connected.Active = true
+    end
 
     LOCAL_ITEMS = {}
     GLOBAL_ITEMS = {}

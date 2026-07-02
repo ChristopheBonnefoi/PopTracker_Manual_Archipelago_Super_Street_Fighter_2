@@ -1,14 +1,122 @@
 [
   {
-    "name": "Super Battle",
+    "name": "All",
     "location_size": 40,
     "location_border_thickness": 9,
-    "img": "images/maps/super battle mode.png"
+    "img": "images/maps/all.png"
+  },
+  {
+    "name": "Super Battle - Defeat",
+    "location_size": 40,
+    "location_border_thickness": 9,
+    "img": "images/maps/Deafeat.png"
   },
   {
     "name": "Time Challenge",
     "location_size": 40,
     "location_border_thickness": 9,
-    "img": "images/maps/Time challenge mode.png"
+    "img": "images/maps/Time.png"
+  },
+  {
+    "name": "Super Battle - Ryu",
+    "location_size": 40,
+    "location_border_thickness": 9,
+    "img": "images/maps/Ryu.png"
+  },
+  {
+    "name": "Super Battle - E.Honda",
+    "location_size": 40,
+    "location_border_thickness": 9,
+    "img": "images/maps/Honda.png"
+  },
+  {
+    "name": "Super Battle - Blanka",
+    "location_size": 40,
+    "location_border_thickness": 9,
+    "img": "images/maps/Blanka.png"
+  },
+  {
+    "name": "Super Battle - Guile",
+    "location_size": 40,
+    "location_border_thickness": 9,
+    "img": "images/maps/Guile.png"
+  },
+  {
+    "name": "Super Battle - Balrog",
+    "location_size": 40,
+    "location_border_thickness": 9,
+    "img": "images/maps/Balrog.png"
+  },
+  {
+    "name": "Super Battle - Ken",
+    "location_size": 40,
+    "location_border_thickness": 9,
+    "img": "images/maps/Ken.png"
+  },
+  {
+    "name": "Super Battle - Chun-Li",
+    "location_size": 40,
+    "location_border_thickness": 9,
+    "img": "images/maps/Chun.png"
+  },
+  {
+    "name": "Super Battle - Zangief",
+    "location_size": 40,
+    "location_border_thickness": 9,
+    "img": "images/maps/Zangief.png"
+  },
+  {
+    "name": "Super Battle - Dhalsim",
+    "location_size": 40,
+    "location_border_thickness": 9,
+    "img": "images/maps/Dhalsim.png"
+  },
+  {
+    "name": "Super Battle - Sagat",
+    "location_size": 40,
+    "location_border_thickness": 9,
+    "img": "images/maps/Sagat.png"
+  },
+  {
+    "name": "Super Battle - Vega",
+    "location_size": 40,
+    "location_border_thickness": 9,
+    "img": "images/maps/Vega.png"
+  },
+  {
+    "name": "Super Battle - T.Hawk",
+    "location_size": 40,
+    "location_border_thickness": 9,
+    "img": "images/maps/Hawk.png"
+  },
+  {
+    "name": "Super Battle - Fei Long",
+    "location_size": 40,
+    "location_border_thickness": 9,
+    "img": "images/maps/Fei.png"
+  },
+  {
+    "name": "Super Battle - Dee Jay",
+    "location_size": 40,
+    "location_border_thickness": 9,
+    "img": "images/maps/Dee.png"
+  },
+  {
+    "name": "Super Battle - Cammy",
+    "location_size": 40,
+    "location_border_thickness": 9,
+    "img": "images/maps/Cammy.png"
+  },
+  {
+    "name": "Super Battle - M.Bison",
+    "location_size": 40,
+    "location_border_thickness": 9,
+    "img": "images/maps/Bison.png"
+  },
+  {
+    "name": "Other",
+    "location_size": 40,
+    "location_border_thickness": 9,
+    "img": "images/maps/other.png"
   }
 ]

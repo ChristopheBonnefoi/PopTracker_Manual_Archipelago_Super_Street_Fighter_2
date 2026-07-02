@@ -1,4 +1,4 @@
-﻿{
+{
   "tracker_default": {
     "type": "container",
     "background": "#000000",
@@ -53,22 +53,206 @@
           "type": "tabbed",
           "tabs": [
             {
-              "title": "Super Battle",
-              "icon": "images/items/super battle.png",
+              "title": "All",
               "content": {
                 "type": "map",
                 "maps": [
-                  "Super Battle"
+                  "All"
+                ]
+              }
+            },
+            {
+              "title": "Super Battle",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Defeat",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Super Battle - Defeat"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Ryu",
+                    "icon": "images/items/Ryu.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Super Battle - Ryu"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "E.Honda",
+                    "icon": "images/items/E.Honda.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Super Battle - E.Honda"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Blanka",
+                    "icon": "images/items/Blanka.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Super Battle - Blanka"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Guile",
+                    "icon": "images/items/Guile.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Super Battle - Guile"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Balrog",
+                    "icon": "images/items/Balrog.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Super Battle - Balrog"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Ken",
+                    "icon": "images/items/Ken.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Super Battle - Ken"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Chun-Li",
+                    "icon": "images/items/Chun-Li.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Super Battle - Chun-Li"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Zangief",
+                    "icon": "images/items/Zangief.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Super Battle - Zangief"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Dhalsim",
+                    "icon": "images/items/Dhalsim.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Super Battle - Dhalsim"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Sagat",
+                    "icon": "images/items/Sagat.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Super Battle - Sagat"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Vega",
+                    "icon": "images/items/Vega.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Super Battle - Vega"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "T.Hawk",
+                    "icon": "images/items/T.Hawk.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Super Battle - T.Hawk"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Fei Long",
+                    "icon": "images/items/Fei-Long.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Super Battle - Fei Long"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Dee Jay",
+                    "icon": "images/items/Dee-Jay.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Super Battle - Dee Jay"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Cammy",
+                    "icon": "images/items/Cammy.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Super Battle - Cammy"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "M.Bison",
+                    "icon": "images/items/M.Bison.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Super Battle - M.Bison"
+                      ]
+                    }
+                  }
                 ]
               }
             },
             {
               "title": "Time Challenge",
-              "icon": "images/items/Time Challenge.png",
               "content": {
                 "type": "map",
                 "maps": [
                   "Time Challenge"
+                ]
+              }
+            },
+            {
+              "title": "Other",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Other"
                 ]
               }
             }

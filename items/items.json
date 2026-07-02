@@ -1,5 +1,11 @@
 [
   {
+    "name": "AP Connected",
+    "type": "toggle",
+    "img": "images/items/super battle.png",
+    "codes": "AP Connected"
+  },
+  {
     "name": "Balrog [Player]",
     "type": "toggle",
     "img": "images/items/Balrog.png",
@@ -262,5 +268,731 @@
     "type": "toggle",
     "img": "images/items/Zangief.png",
     "codes": "Zangief [CPU for Time Challenge]"
+  },
+  {
+    "name": "Balrog - Head Bomber",
+    "type": "toggle",
+    "img": "images/items/Balrog.png",
+    "codes": "Balrog - Head Bomber"
+  },
+  {
+    "name": "Balrog - Dash Straight",
+    "type": "toggle",
+    "img": "images/items/Balrog.png",
+    "codes": "Balrog - Dash Straight"
+  },
+  {
+    "name": "Balrog - Dash Upper",
+    "type": "toggle",
+    "img": "images/items/Balrog.png",
+    "codes": "Balrog - Dash Upper"
+  },
+  {
+    "name": "Balrog - Turn Punch",
+    "type": "toggle",
+    "img": "images/items/Balrog.png",
+    "codes": "Balrog - Turn Punch"
+  },
+  {
+    "name": "Balrog - Buffalo Headbutt",
+    "type": "toggle",
+    "img": "images/items/Balrog.png",
+    "codes": "Balrog - Buffalo Headbutt"
+  },
+  {
+    "name": "Blanka - Wild Fang",
+    "type": "toggle",
+    "img": "images/items/Blanka.png",
+    "codes": "Blanka - Wild Fang"
+  },
+  {
+    "name": "Blanka - Rock Crush",
+    "type": "toggle",
+    "img": "images/items/Blanka.png",
+    "codes": "Blanka - Rock Crush"
+  },
+  {
+    "name": "Blanka - Electric Thunder",
+    "type": "toggle",
+    "img": "images/items/Blanka.png",
+    "codes": "Blanka - Electric Thunder"
+  },
+  {
+    "name": "Blanka - Rolling Attack",
+    "type": "toggle",
+    "img": "images/items/Blanka.png",
+    "codes": "Blanka - Rolling Attack"
+  },
+  {
+    "name": "Blanka - Backstep Rolling",
+    "type": "toggle",
+    "img": "images/items/Blanka.png",
+    "codes": "Blanka - Backstep Rolling"
+  },
+  {
+    "name": "Blanka - Vertical Rolling",
+    "type": "toggle",
+    "img": "images/items/Blanka.png",
+    "codes": "Blanka - Vertical Rolling"
+  },
+  {
+    "name": "Cammy - Hooligan Suplex",
+    "type": "toggle",
+    "img": "images/items/Cammy.png",
+    "codes": "Cammy - Hooligan Suplex"
+  },
+  {
+    "name": "Cammy - Frankensteiner",
+    "type": "toggle",
+    "img": "images/items/Cammy.png",
+    "codes": "Cammy - Frankensteiner"
+  },
+  {
+    "name": "Cammy - Flying Neck Hunt",
+    "type": "toggle",
+    "img": "images/items/Cammy.png",
+    "codes": "Cammy - Flying Neck Hunt"
+  },
+  {
+    "name": "Cammy - Air Frankensteiner",
+    "type": "toggle",
+    "img": "images/items/Cammy.png",
+    "codes": "Cammy - Air Frankensteiner"
+  },
+  {
+    "name": "Cammy - Spiral Arrow",
+    "type": "toggle",
+    "img": "images/items/Cammy.png",
+    "codes": "Cammy - Spiral Arrow"
+  },
+  {
+    "name": "Cammy - Cannon Spike",
+    "type": "toggle",
+    "img": "images/items/Cammy.png",
+    "codes": "Cammy - Cannon Spike"
+  },
+  {
+    "name": "Cammy - Axle Spin Knuckle",
+    "type": "toggle",
+    "img": "images/items/Cammy.png",
+    "codes": "Cammy - Axle Spin Knuckle"
+  },
+  {
+    "name": "Chun-Li - Sankaku Tobi",
+    "type": "toggle",
+    "img": "images/items/Chun-Li.png",
+    "codes": "Chun-Li - Sankaku Tobi"
+  },
+  {
+    "name": "Chun-Li - Koshuu Tou",
+    "type": "toggle",
+    "img": "images/items/Chun-Li.png",
+    "codes": "Chun-Li - Koshuu Tou"
+  },
+  {
+    "name": "Chun-Li - Ryuusei Raku",
+    "type": "toggle",
+    "img": "images/items/Chun-Li.png",
+    "codes": "Chun-Li - Ryuusei Raku"
+  },
+  {
+    "name": "Chun-Li - Kouhou Kaiten Kyaku",
+    "type": "toggle",
+    "img": "images/items/Chun-Li.png",
+    "codes": "Chun-Li - Kouhou Kaiten Kyaku"
+  },
+  {
+    "name": "Chun-Li - Kaku Kyaku Raku",
+    "type": "toggle",
+    "img": "images/items/Chun-Li.png",
+    "codes": "Chun-Li - Kaku Kyaku Raku"
+  },
+  {
+    "name": "Chun-Li - Yousou Kyaku",
+    "type": "toggle",
+    "img": "images/items/Chun-Li.png",
+    "codes": "Chun-Li - Yousou Kyaku"
+  },
+  {
+    "name": "Chun-Li - Spinning Bird Kick",
+    "type": "toggle",
+    "img": "images/items/Chun-Li.png",
+    "codes": "Chun-Li - Spinning Bird Kick"
+  },
+  {
+    "name": "Chun-Li - Haykuretsu Kyaku",
+    "type": "toggle",
+    "img": "images/items/Chun-Li.png",
+    "codes": "Chun-Li - Haykuretsu Kyaku"
+  },
+  {
+    "name": "Chun-Li - Kikouken",
+    "type": "toggle",
+    "img": "images/items/Chun-Li.png",
+    "codes": "Chun-Li - Kikouken"
+  },
+  {
+    "name": "Dee Jay - Funky Shout Throw",
+    "type": "toggle",
+    "img": "images/items/Dee-Jay.png",
+    "codes": "Dee Jay - Funky Shout Throw"
+  },
+  {
+    "name": "Dee Jay - Monkey Flip",
+    "type": "toggle",
+    "img": "images/items/Dee-Jay.png",
+    "codes": "Dee Jay - Monkey Flip"
+  },
+  {
+    "name": "Dee Jay - Knee Shot",
+    "type": "toggle",
+    "img": "images/items/Dee-Jay.png",
+    "codes": "Dee Jay - Knee Shot"
+  },
+  {
+    "name": "Dee Jay - Air Slasher (Max Out)",
+    "type": "toggle",
+    "img": "images/items/Dee-Jay.png",
+    "codes": "Dee Jay - Air Slasher (Max Out)"
+  },
+  {
+    "name": "Dee Jay - Double Rolling Sobat",
+    "type": "toggle",
+    "img": "images/items/Dee-Jay.png",
+    "codes": "Dee Jay - Double Rolling Sobat"
+  },
+  {
+    "name": "Dee Jay - Machine Gun Upper",
+    "type": "toggle",
+    "img": "images/items/Dee-Jay.png",
+    "codes": "Dee Jay - Machine Gun Upper"
+  },
+  {
+    "name": "Dhalsim - Yoga Smash",
+    "type": "toggle",
+    "img": "images/items/Dhalsim.png",
+    "codes": "Dhalsim - Yoga Smash"
+  },
+  {
+    "name": "Dhalsim - Yoga Throw",
+    "type": "toggle",
+    "img": "images/items/Dhalsim.png",
+    "codes": "Dhalsim - Yoga Throw"
+  },
+  {
+    "name": "Dhalsim - Drill Zutsuki/Yoga Mummy",
+    "type": "toggle",
+    "img": "images/items/Dhalsim.png",
+    "codes": "Dhalsim - Drill Zutsuki/Yoga Mummy"
+  },
+  {
+    "name": "Dhalsim - Drill Kick/Yoga Spear",
+    "type": "toggle",
+    "img": "images/items/Dhalsim.png",
+    "codes": "Dhalsim - Drill Kick/Yoga Spear"
+  },
+  {
+    "name": "Dhalsim - Yoga Fire",
+    "type": "toggle",
+    "img": "images/items/Dhalsim.png",
+    "codes": "Dhalsim - Yoga Fire"
+  },
+  {
+    "name": "Dhalsim - Yoga Flame",
+    "type": "toggle",
+    "img": "images/items/Dhalsim.png",
+    "codes": "Dhalsim - Yoga Flame"
+  },
+  {
+    "name": "Dhalsim - Yoga Teleport Forward",
+    "type": "toggle",
+    "img": "images/items/Dhalsim.png",
+    "codes": "Dhalsim - Yoga Teleport Forward"
+  },
+  {
+    "name": "Dhalsim - Yoga Teleport Backward",
+    "type": "toggle",
+    "img": "images/items/Dhalsim.png",
+    "codes": "Dhalsim - Yoga Teleport Backward"
+  },
+  {
+    "name": "E.Honda - Tawara Nage",
+    "type": "toggle",
+    "img": "images/items/E.Honda.png",
+    "codes": "E.Honda - Tawara Nage"
+  },
+  {
+    "name": "E.Honda - Saba Ori",
+    "type": "toggle",
+    "img": "images/items/E.Honda.png",
+    "codes": "E.Honda - Saba Ori"
+  },
+  {
+    "name": "E.Honda - Hiza Geri",
+    "type": "toggle",
+    "img": "images/items/E.Honda.png",
+    "codes": "E.Honda - Hiza Geri"
+  },
+  {
+    "name": "E.Honda - Sekkan Kyaku",
+    "type": "toggle",
+    "img": "images/items/E.Honda.png",
+    "codes": "E.Honda - Sekkan Kyaku"
+  },
+  {
+    "name": "E.Honda - Flying Sumo Press",
+    "type": "toggle",
+    "img": "images/items/E.Honda.png",
+    "codes": "E.Honda - Flying Sumo Press"
+  },
+  {
+    "name": "E.Honda - Hyakuretsu Harite",
+    "type": "toggle",
+    "img": "images/items/E.Honda.png",
+    "codes": "E.Honda - Hyakuretsu Harite"
+  },
+  {
+    "name": "E.Honda - Super Zutsuki",
+    "type": "toggle",
+    "img": "images/items/E.Honda.png",
+    "codes": "E.Honda - Super Zutsuki"
+  },
+  {
+    "name": "E.Honda - Super Hyakkan Otoshi",
+    "type": "toggle",
+    "img": "images/items/E.Honda.png",
+    "codes": "E.Honda - Super Hyakkan Otoshi"
+  },
+  {
+    "name": "Fei Long - Gankai Hou",
+    "type": "toggle",
+    "img": "images/items/Fei-Long.png",
+    "codes": "Fei Long - Gankai Hou"
+  },
+  {
+    "name": "Fei Long - Shuu Kubi Kari",
+    "type": "toggle",
+    "img": "images/items/Fei-Long.png",
+    "codes": "Fei Long - Shuu Kubi Kari"
+  },
+  {
+    "name": "Fei Long - Chokka Raku Shou",
+    "type": "toggle",
+    "img": "images/items/Fei-Long.png",
+    "codes": "Fei Long - Chokka Raku Shou"
+  },
+  {
+    "name": "Fei Long - En Geki Shuu",
+    "type": "toggle",
+    "img": "images/items/Fei-Long.png",
+    "codes": "Fei Long - En Geki Shuu"
+  },
+  {
+    "name": "Fei Long - Rekka Ken",
+    "type": "toggle",
+    "img": "images/items/Fei-Long.png",
+    "codes": "Fei Long - Rekka Ken"
+  },
+  {
+    "name": "Fei Long - Shien Kyaku",
+    "type": "toggle",
+    "img": "images/items/Fei-Long.png",
+    "codes": "Fei Long - Shien Kyaku"
+  },
+  {
+    "name": "Guile - Judo Throw",
+    "type": "toggle",
+    "img": "images/items/Guile.png",
+    "codes": "Guile - Judo Throw"
+  },
+  {
+    "name": "Guile - Dragon Suplex",
+    "type": "toggle",
+    "img": "images/items/Guile.png",
+    "codes": "Guile - Dragon Suplex"
+  },
+  {
+    "name": "Guile - Flying Mare",
+    "type": "toggle",
+    "img": "images/items/Guile.png",
+    "codes": "Guile - Flying Mare"
+  },
+  {
+    "name": "Guile - Flying Buster Drop",
+    "type": "toggle",
+    "img": "images/items/Guile.png",
+    "codes": "Guile - Flying Buster Drop"
+  },
+  {
+    "name": "Guile - Knee Bazooka",
+    "type": "toggle",
+    "img": "images/items/Guile.png",
+    "codes": "Guile - Knee Bazooka"
+  },
+  {
+    "name": "Guile - Reverse Spin Kick",
+    "type": "toggle",
+    "img": "images/items/Guile.png",
+    "codes": "Guile - Reverse Spin Kick"
+  },
+  {
+    "name": "Guile - Spinning Back Knuckle",
+    "type": "toggle",
+    "img": "images/items/Guile.png",
+    "codes": "Guile - Spinning Back Knuckle"
+  },
+  {
+    "name": "Guile - Sonic Boom",
+    "type": "toggle",
+    "img": "images/items/Guile.png",
+    "codes": "Guile - Sonic Boom"
+  },
+  {
+    "name": "Guile - Somersault Kick",
+    "type": "toggle",
+    "img": "images/items/Guile.png",
+    "codes": "Guile - Somersault Kick"
+  },
+  {
+    "name": "Ken - Seoi Nage",
+    "type": "toggle",
+    "img": "images/items/Ken.png",
+    "codes": "Ken - Seoi Nage"
+  },
+  {
+    "name": "Ken - Tsukami Nage",
+    "type": "toggle",
+    "img": "images/items/Ken.png",
+    "codes": "Ken - Tsukami Nage"
+  },
+  {
+    "name": "Ken - Hadouken",
+    "type": "toggle",
+    "img": "images/items/Ken.png",
+    "codes": "Ken - Hadouken"
+  },
+  {
+    "name": "Ken - Shoryuken",
+    "type": "toggle",
+    "img": "images/items/Ken.png",
+    "codes": "Ken - Shoryuken"
+  },
+  {
+    "name": "Ken - Tatsumaki Senpuukyaku",
+    "type": "toggle",
+    "img": "images/items/Ken.png",
+    "codes": "Ken - Tatsumaki Senpuukyaku"
+  },
+  {
+    "name": "Ken - Kuchuu Tatsumaki Senpuukyaku",
+    "type": "toggle",
+    "img": "images/items/Ken.png",
+    "codes": "Ken - Kuchuu Tatsumaki Senpuukyaku"
+  },
+  {
+    "name": "M.Bison - Deadly Throw",
+    "type": "toggle",
+    "img": "images/items/M.Bison.png",
+    "codes": "M.Bison - Deadly Throw"
+  },
+  {
+    "name": "M.Bison - Psycho Crusher",
+    "type": "toggle",
+    "img": "images/items/M.Bison.png",
+    "codes": "M.Bison - Psycho Crusher"
+  },
+  {
+    "name": "M.Bison - Double Knee Press",
+    "type": "toggle",
+    "img": "images/items/M.Bison.png",
+    "codes": "M.Bison - Double Knee Press"
+  },
+  {
+    "name": "M.Bison - Head Press",
+    "type": "toggle",
+    "img": "images/items/M.Bison.png",
+    "codes": "M.Bison - Head Press"
+  },
+  {
+    "name": "M.Bison - Somersault Skull Diver",
+    "type": "toggle",
+    "img": "images/items/M.Bison.png",
+    "codes": "M.Bison - Somersault Skull Diver"
+  },
+  {
+    "name": "M.Bison - Devil Reverse",
+    "type": "toggle",
+    "img": "images/items/M.Bison.png",
+    "codes": "M.Bison - Devil Reverse"
+  },
+  {
+    "name": "Ryu - Seoi Nage",
+    "type": "toggle",
+    "img": "images/items/Ryu.png",
+    "codes": "Ryu - Seoi Nage"
+  },
+  {
+    "name": "Ryu - Tomoe Nage",
+    "type": "toggle",
+    "img": "images/items/Ryu.png",
+    "codes": "Ryu - Tomoe Nage"
+  },
+  {
+    "name": "Ryu - Hadouken",
+    "type": "toggle",
+    "img": "images/items/Ryu.png",
+    "codes": "Ryu - Hadouken"
+  },
+  {
+    "name": "Ryu - Shakunetsu Hadouken",
+    "type": "toggle",
+    "img": "images/items/Ryu.png",
+    "codes": "Ryu - Shakunetsu Hadouken"
+  },
+  {
+    "name": "Ryu - Shoryuken",
+    "type": "toggle",
+    "img": "images/items/Ryu.png",
+    "codes": "Ryu - Shoryuken"
+  },
+  {
+    "name": "Ryu - Tatsumaki Senpuukyaku",
+    "type": "toggle",
+    "img": "images/items/Ryu.png",
+    "codes": "Ryu - Tatsumaki Senpuukyaku"
+  },
+  {
+    "name": "Ryu - Kuchuu Tatsumaki Senpuukyaku",
+    "type": "toggle",
+    "img": "images/items/Ryu.png",
+    "codes": "Ryu - Kuchuu Tatsumaki Senpuukyaku"
+  },
+  {
+    "name": "Sagat - Tiger Carry",
+    "type": "toggle",
+    "img": "images/items/Sagat.png",
+    "codes": "Sagat - Tiger Carry"
+  },
+  {
+    "name": "Sagat - Tiger Shot",
+    "type": "toggle",
+    "img": "images/items/Sagat.png",
+    "codes": "Sagat - Tiger Shot"
+  },
+  {
+    "name": "Sagat - Ground Tiger Shot",
+    "type": "toggle",
+    "img": "images/items/Sagat.png",
+    "codes": "Sagat - Ground Tiger Shot"
+  },
+  {
+    "name": "Sagat - Tiger Uppercut",
+    "type": "toggle",
+    "img": "images/items/Sagat.png",
+    "codes": "Sagat - Tiger Uppercut"
+  },
+  {
+    "name": "Sagat - Tiger Knee Crush",
+    "type": "toggle",
+    "img": "images/items/Sagat.png",
+    "codes": "Sagat - Tiger Knee Crush"
+  },
+  {
+    "name": "T.Hawk - Mexican Throw",
+    "type": "toggle",
+    "img": "images/items/T.Hawk.png",
+    "codes": "T.Hawk - Mexican Throw"
+  },
+  {
+    "name": "T.Hawk - Neck Hanging Tree",
+    "type": "toggle",
+    "img": "images/items/T.Hawk.png",
+    "codes": "T.Hawk - Neck Hanging Tree"
+  },
+  {
+    "name": "T.Hawk - Elbow Stomping",
+    "type": "toggle",
+    "img": "images/items/T.Hawk.png",
+    "codes": "T.Hawk - Elbow Stomping"
+  },
+  {
+    "name": "T.Hawk - Thrust Beak",
+    "type": "toggle",
+    "img": "images/items/T.Hawk.png",
+    "codes": "T.Hawk - Thrust Beak"
+  },
+  {
+    "name": "T.Hawk - Heavy Shoulder",
+    "type": "toggle",
+    "img": "images/items/T.Hawk.png",
+    "codes": "T.Hawk - Heavy Shoulder"
+  },
+  {
+    "name": "T.Hawk - Heavy Body Press",
+    "type": "toggle",
+    "img": "images/items/T.Hawk.png",
+    "codes": "T.Hawk - Heavy Body Press"
+  },
+  {
+    "name": "T.Hawk - Condor Dive",
+    "type": "toggle",
+    "img": "images/items/T.Hawk.png",
+    "codes": "T.Hawk - Condor Dive"
+  },
+  {
+    "name": "T.Hawk - Tomahawk Buster",
+    "type": "toggle",
+    "img": "images/items/T.Hawk.png",
+    "codes": "T.Hawk - Tomahawk Buster"
+  },
+  {
+    "name": "T.Hawk - Mexican Typhoon",
+    "type": "toggle",
+    "img": "images/items/T.Hawk.png",
+    "codes": "T.Hawk - Mexican Typhoon"
+  },
+  {
+    "name": "Vega - Sankaku Tobi",
+    "type": "toggle",
+    "img": "images/items/Vega.png",
+    "codes": "Vega - Sankaku Tobi"
+  },
+  {
+    "name": "Vega - Rainbow Suplex",
+    "type": "toggle",
+    "img": "images/items/Vega.png",
+    "codes": "Vega - Rainbow Suplex"
+  },
+  {
+    "name": "Vega - Stardust Drop",
+    "type": "toggle",
+    "img": "images/items/Vega.png",
+    "codes": "Vega - Stardust Drop"
+  },
+  {
+    "name": "Vega - Back Slash",
+    "type": "toggle",
+    "img": "images/items/Vega.png",
+    "codes": "Vega - Back Slash"
+  },
+  {
+    "name": "Vega - Short Back Slash",
+    "type": "toggle",
+    "img": "images/items/Vega.png",
+    "codes": "Vega - Short Back Slash"
+  },
+  {
+    "name": "Vega - Rolling Crystal Flash",
+    "type": "toggle",
+    "img": "images/items/Vega.png",
+    "codes": "Vega - Rolling Crystal Flash"
+  },
+  {
+    "name": "Vega - Flying Barcelona Attack",
+    "type": "toggle",
+    "img": "images/items/Vega.png",
+    "codes": "Vega - Flying Barcelona Attack"
+  },
+  {
+    "name": "Vega - Izuna Drop",
+    "type": "toggle",
+    "img": "images/items/Vega.png",
+    "codes": "Vega - Izuna Drop"
+  },
+  {
+    "name": "Vega - Sky High Claw",
+    "type": "toggle",
+    "img": "images/items/Vega.png",
+    "codes": "Vega - Sky High Claw"
+  },
+  {
+    "name": "Zangief - Piledriver",
+    "type": "toggle",
+    "img": "images/items/Zangief.png",
+    "codes": "Zangief - Piledriver"
+  },
+  {
+    "name": "Zangief - Iron Claw",
+    "type": "toggle",
+    "img": "images/items/Zangief.png",
+    "codes": "Zangief - Iron Claw"
+  },
+  {
+    "name": "Zangief - Brain Buster",
+    "type": "toggle",
+    "img": "images/items/Zangief.png",
+    "codes": "Zangief - Brain Buster"
+  },
+  {
+    "name": "Zangief - Kamitsuki",
+    "type": "toggle",
+    "img": "images/items/Zangief.png",
+    "codes": "Zangief - Kamitsuki"
+  },
+  {
+    "name": "Zangief - Deadly Driver",
+    "type": "toggle",
+    "img": "images/items/Zangief.png",
+    "codes": "Zangief - Deadly Driver"
+  },
+  {
+    "name": "Zangief - Leg Throw",
+    "type": "toggle",
+    "img": "images/items/Zangief.png",
+    "codes": "Zangief - Leg Throw"
+  },
+  {
+    "name": "Zangief - Stomach Claw",
+    "type": "toggle",
+    "img": "images/items/Zangief.png",
+    "codes": "Zangief - Stomach Claw"
+  },
+  {
+    "name": "Zangief - Flying Body Attack",
+    "type": "toggle",
+    "img": "images/items/Zangief.png",
+    "codes": "Zangief - Flying Body Attack"
+  },
+  {
+    "name": "Zangief - Double Knee Drop",
+    "type": "toggle",
+    "img": "images/items/Zangief.png",
+    "codes": "Zangief - Double Knee Drop"
+  },
+  {
+    "name": "Zangief - Headbutt",
+    "type": "toggle",
+    "img": "images/items/Zangief.png",
+    "codes": "Zangief - Headbutt"
+  },
+  {
+    "name": "Zangief - Double Lariat",
+    "type": "toggle",
+    "img": "images/items/Zangief.png",
+    "codes": "Zangief - Double Lariat"
+  },
+  {
+    "name": "Zangief - Quick Lariat",
+    "type": "toggle",
+    "img": "images/items/Zangief.png",
+    "codes": "Zangief - Quick Lariat"
+  },
+  {
+    "name": "Zangief - Screw Piledriver",
+    "type": "toggle",
+    "img": "images/items/Zangief.png",
+    "codes": "Zangief - Screw Piledriver"
+  },
+  {
+    "name": "Zangief - Flying Powerbomb",
+    "type": "toggle",
+    "img": "images/items/Zangief.png",
+    "codes": "Zangief - Flying Powerbomb"
+  },
+  {
+    "name": "Zangief - Atomic Suplex",
+    "type": "toggle",
+    "img": "images/items/Zangief.png",
+    "codes": "Zangief - Atomic Suplex"
   }
 ]

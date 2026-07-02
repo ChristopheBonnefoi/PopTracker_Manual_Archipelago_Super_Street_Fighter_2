@@ -1,2 +1,14 @@
-# Ignore the docs folder (your local TODOs, images, etc.)
+# Ignore the docs folder (your local TODOs, source files, images, etc.)
 docs/
+
+# Generated archives / local release packages.
+*.zip
+*.rar
+
+# Local logs.
+debug.log
+*.log
+images/maps/debug.log
+
+# Source art files are too large for the tracker pack/repo.
+images/maps/overworld.psd
